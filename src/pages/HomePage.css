@@ -1,0 +1,23 @@
+body {
+	background:#ededed;
+}
+
+a.border.nav-link.border-light.rounded.mr-1 {
+  color: #3F729B;
+}
+
+a.border.nav-link.border-light.rounded.mr-1:hover {
+  color: #1C2331;
+}
+
+.btn.btn-sm.indigo:hover{
+  color: #fff;
+}
+
+.nav-link.active{
+  background-color: #F8F8F8;
+}
+
+#categories > .col-md-4.mb-5{
+  margin-bottom: 8rem !important;
+}
